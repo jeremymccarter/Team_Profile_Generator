@@ -6,10 +6,11 @@
   1. [Description](#description)
   2. [Installation](#installation)
   3. [Usage](#intended-usage)
-  4. [Contributions](#contributions)
-  5. [Tests](#tests)
-  6. [License](#license)
-  7. [Questions](#questions?)
+  4. [Demo](#demo)
+  5. [Contributions](#contributions)
+  6. [Tests](#tests)
+  7. [License](#license)
+  8. [Questions](#questions?)
   
 
 ## Description
@@ -22,8 +23,9 @@ This is an application that can be run strictly through the command line. Upon r
   ## Intended usage
   Usage includes creating a webpage going over team members and their jobs/ID numbers.
    
-
-
+  ## Demo
+  [Click me for video demonstration!](https://drive.google.com/file/d/1CUfySsrialv38nFDTAEZzVtUfa4zwv_c/view)
+  ![Screenshot](https://user-images.githubusercontent.com/118328184/220807985-1c8a1929-b67a-49f7-914a-40b5af58be44.png)
   ## Contributions
   Berkely Coding Extension
 
